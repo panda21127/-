@@ -6,7 +6,7 @@ $ chmod +x update.sh
 $ ./update.sh
 
 ## Запус Makefile
-$ make   —  Компилирование файла
+$ make  —  Компилирование файла
 
 $ make start  —  Запус файла
 
