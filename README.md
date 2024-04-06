@@ -6,8 +6,8 @@ $ chmod +x update.sh
 $ ./update.sh
 
 ## Запус Makefile
-$ make  —  Компилирование файла
+$ make  —  Компилирование файлов
 
-$ make start  —  Запус файла
+$ make start  —  Запуск всех программ
 
 $ make clean  —  Очистка от файлов
